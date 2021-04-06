@@ -1,1 +1,1 @@
-{"version":3,"sources":["all1.js"],"names":["newFn"],"mappings":"aAAA,IAAMA,MAAQ,aAIdA","file":"all.js","sourcesContent":["const newFn = () => {\n  console.log('omo');\n};\n\nnewFn();\n"]}
+{"version":3,"sources":["all1.js"],"names":["newFn"],"mappings":"aAAA,IAAMA,MAAQ,aAIdA","file":"all.js","sourcesContent":["const newFn = () => {\n  console.log('chin is cute.');\n};\n\nnewFn();\n"]}
