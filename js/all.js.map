@@ -1,1 +1,1 @@
-{"version":3,"sources":["all1.js","all2.js"],"names":["newFn","newFn2"],"mappings":"aAAA,IAAMA,MAAQ,aAIdA,QCJA,IAAMC,OAAS,aAIfA","file":"all.js","sourcesContent":["const newFn = () => {\n  console.log('omo');\n};\n\nnewFn();\n","const newFn2 = () => {\n  console.log('omo');\n};\n\nnewFn2();\n"]}
+{"version":3,"sources":["all1.js"],"names":["newFn"],"mappings":"aAAA,IAAMA,MAAQ,aAIdA","file":"all.js","sourcesContent":["const newFn = () => {\n  console.log('omo');\n};\n\nnewFn();\n"]}
