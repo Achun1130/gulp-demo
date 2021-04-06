@@ -1,0 +1,8 @@
+@import "./inbox";
+$primary-color: #004400;
+
+body {
+  color: $primary-color;
+  transform: rotate(3deg);
+  background-color: $secondary-color;
+}
